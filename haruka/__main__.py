@@ -25,7 +25,7 @@ I am {}!a complete group managing bot ,Add me in supergroups and promote as admi
 
 >> Activate Anti-spam protection in your groups by this command : 
 /antispam on
->>Add me to a group by clicking [here](http://t.me/tg_GroupManagerBot?startgroup=true).
+>> Add me to a group by clicking [here](http://t.me/tg_GroupManagerBot?startgroup=true).
 """
 
 
