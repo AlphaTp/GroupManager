@@ -21,7 +21,7 @@ from haruka.modules.translations.strings import tld, tld_help
 from haruka.modules.connection import connected
 
 PM_START = """Hello {},
-I am ⚙️ {} !a complete group managing bot 🤖,Add me in supergroups and promote as admin.
+I am {} ⚙️ ! a complete group managing bot 🤖, Add me in supergroups and promote as Admin❗
 
 >> Activate Anti-spam protection in your groups by this command : 
 /antispam on
